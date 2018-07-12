@@ -6,10 +6,10 @@
 
 ## Renderings
 
-### Top Rendering
+### Top
 [![Top](renderings/top.png)](https://aisler.net/p/HBXBLQOW)
 
-### Bottom Rendering
+### Bottom
 [![Bottom](renderings/bottom.png)](https://aisler.net/p/HBXBLQOW)
 
 ---
