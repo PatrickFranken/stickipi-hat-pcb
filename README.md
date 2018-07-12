@@ -2,15 +2,16 @@
 
 ## About This Project
 
-
+_Raspberry PI Hat to record RC signals. Software will be released soon.
+_
 
 ## Renderings
 
 ### Top
-[![Top](renderings/top.png)](https://aisler.net/p/HBXBLQOW)
+[![Top Rendering](renderings/top.png)](https://aisler.net/p/HBXBLQOW)
 
 ### Bottom
-[![Bottom](renderings/bottom.png)](https://aisler.net/p/HBXBLQOW)
+[![Bottom Rendering](renderings/bottom.png)](https://aisler.net/p/HBXBLQOW)
 
 ---
 
